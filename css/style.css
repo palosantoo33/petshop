@@ -1,0 +1,220 @@
+.banner{
+    width: auto;
+    background-color: #F0A83E;
+    text-align: right
+    ;
+}
+main{
+    position: relative;
+width: auto;
+height: 1300px;
+
+}
+.negro{
+    background-color: black
+;color: aliceblue
+    ;
+}
+.alineacionDerecha{
+    
+    text-align: right;
+}
+header{background-color: orange;}
+
+#patita{background-image: url(/img/Background\ Banner.png);
+    width: auto;
+    
+    height: 409px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-clip:border-box;
+    background-size: 3056px;
+
+}
+#placer{
+    position: absolute;
+    right: 15px;
+    top:110px;
+    color: #3C2313;
+    display: inline-block;
+    background-color: whitesmoke;
+    font-weight: bold;
+    size: 30px;
+    font-size: 45px;
+    border-radius: 10px;
+    height: 90px;
+    align-content: center;
+    font-family: 'roboto'sans-serif;
+}
+#comederos{
+    position: absolute;
+    right:125px;
+    top:310px;
+    display:inline-block;
+    background-color: #F0A83E;
+    font-family: 'roboto'sans-serif;
+    font-size: 20px;
+    border-radius: 15px;
+}
+#comederosDescuento{
+    position: absolute;
+    right:45px;
+    top:220px;
+    font-size: 20px;
+    font-weight: 400px;
+
+}
+h1 {
+ display:block;
+ color:#3C2313;
+text-align:center;
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;}
+#tres{text-align: center;}
+#pata{
+    font-weight: 900;
+    color: #3C2313;
+    ;
+}
+h2{display:block;
+    color:#3C2313;
+   text-align:center;
+   font-style: normal;
+   font-weight: 700;
+   font-size: 40px;
+   line-height: 47px;}
+.rectangulo{
+    margin:auto;
+    width: 340px;
+height: 40px;
+    display:block;
+    background-image: url(/img/Rectangle\ 16.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color:antiquewhite;
+    border-radius: 15px;
+}
+.articulo{
+    position:relative;
+    top: 60px;
+    display:inline-block;
+    margin:auto;
+    text-align: center;
+    height: 400px;
+    width: 1400px;
+}
+#principal{
+    position: relative;
+    display:flex;
+    justify-content:space-around;
+}
+#contenedor{
+    display: flex;
+    justify-content: center;
+    align-items:flex-end;
+    margin-top: 150px;
+}
+button{
+    display: flex;
+    width: 110px;
+    height: 34px;
+    background-color:  #8A8787;
+    border-radius: 40%;
+    font-family: 'roboto'sans-serif;
+    font-size: 19px;
+    justify-content: center;
+    align-items: center;
+color: antiquewhite;
+margin: 15px;
+border-style:none;
+
+}
+#boton2{
+    display: flex;
+    width: 110px;
+    height: 34px;
+    background-color: #F0A83E;
+    border-radius: 40%;
+    justify-content: center;
+    align-items: center;
+    color: antiquewhite;
+    margin: 15px;
+    border-style:none;
+}
+#botones{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    
+}
+#susc{
+    position: absolute;
+    background-color: #3C2313;
+    color: antiquewhite;
+    font-family: 'roboto', sans-serif;
+    font-size: 15px;
+    border-radius: 15px;
+    right: 200px;
+}
+#lineaNaranja{
+    background-color: #F0A83E;
+    display: flex;
+    position: relative;
+align-items: center;}
+#rectanguloBlanco {
+    position: absolute;
+    background-color: antiquewhite;
+    border-radius:15px;
+    width: 460px;
+    height: fit-content;
+    margin: 10px;
+    font-family: 'roboto', sans-serif;
+    font-size: 10px;
+    right: 350px;
+    margin-top: 15px;
+}
+h3{
+    font-family: 'roboto','sans-serif';
+    color: antiquewhite;
+    margin-left: 25px;
+}
+#loguito{
+    margin-left: 58px;
+}
+#final{
+    position: relative;
+    background-color: #3C2313;
+    display: flex;
+     ;
+}
+#logos{
+    width: 100px;
+
+    display: flex;
+    flex-direction: column;
+}
+.margenLogos{
+    margin: 18px;
+}
+#datos{
+    font-family: 'roboto',sans-serif;
+    font-size: 20px;
+    margin-left: 25px;
+color: antiquewhite;}
+#logoFinal{
+    position: absolute;
+    right: 100px;
+    top: 100px;
+}
+footer{
+    background-color: black;
+    position: relative;
+    top:500px
+    ;
+    font-family: 'roboto' sans-serif;
+    color: antiquewhite;
+
+}
