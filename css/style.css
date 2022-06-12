@@ -21,7 +21,7 @@ height: 1300px;
 }
 header{background-color: orange;}
 
-#patita{background-image: url(/img/Background\ Banner.png);
+#patita{background-image: url(./img/Background\ Banner.png);
     width: auto;
     
     height: 409px;
