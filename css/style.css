@@ -21,7 +21,7 @@ height: 1300px;
 }
 header{background-color: orange;}
 
-#patita{background-image: url(petshop/img/Background\ Banner.png);
+#patita{background-image: url(./img/Background/Banner.png);
     width: auto;
     
     height: 409px;
@@ -90,7 +90,7 @@ h2{display:block;
     width: 340px;
 height: 40px;
     display:block;
-    background-image: url(petshop/img/Rectangle\ 16.png);
+    background-image: (url./img/Rectangle/16.png);
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
